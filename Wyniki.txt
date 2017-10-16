@@ -1,0 +1,67 @@
+and : 
+Wyj_przed_treningiem =
+
+     1     1     1     1
+Wyj_po_treningu =
+
+     0     0     0     1
+
+or :
+Wyj_przed_treningiem =
+
+     1     1     1     1
+Wyj_po_treningu =
+
+     0     1     1     1
+
+nand :
+
+Wyj_przed_treningiem =
+
+     1     1     1     1
+Wyj_po_treningu =
+
+     1     1     1     0
+
+nor :
+
+Wyj_przed_treningiem =
+
+     1     1     1     1
+Wyj_po_treningu =
+
+     1     0     0     0
+
+xor :
+
+Wyj_przed_treningiem =
+
+     1     1     1     1
+Wyj_po_treningu =
+
+     1     1     0     0
+
+xnor:
+
+Wyj_przed_treningiem =
+
+     1     1     1     1
+Wyj_po_treningu =
+
+     0     0     1     1
+
+not :
+
+Wyj_przed_treningiem =
+
+     1     1
+Wyj_po_treningu =
+
+     1     0
+
+
+
+
+
+
+
