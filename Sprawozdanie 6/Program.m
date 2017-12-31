@@ -1,7 +1,7 @@
 close all; clear all; clc;
 
-           %A B C D E F G H I K L J M N O P R S T U
-INPUT =    [0 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 0 1 1 1;
+           	       %A B C D E F G H I K L J M N O P R S T U
+INPUT =                [0 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 0 1 1 1;
 			1 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 0;
 			1 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1;
 			0 0 1 0 1 1 1 1 0 1 1 0 1 0 0 0 1 0 1 0;%
